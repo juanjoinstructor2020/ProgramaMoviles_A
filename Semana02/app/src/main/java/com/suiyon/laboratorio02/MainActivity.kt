@@ -43,6 +43,7 @@ fun Greeting(name: String, modifier: Modifier = Modifier) {
         Text(
             text = "tecusp")
         Text(text="Demostracion commit 2")
+        Text(text="Demostracion commit 3")
     }
 }
 
